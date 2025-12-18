@@ -149,3 +149,10 @@ footer {
     color: #8b949e;
     margin: 48px 0;
 }
+/* Active navigation link */
+nav a.active {
+    color: #a8d0e6;
+    border-bottom: 2px solid #a8d0e6;
+    padding-bottom: 4px;
+}
+
